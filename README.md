@@ -3,7 +3,7 @@ Compress/Decompress txt files.
 
 All characters in the file must be characters within the ASCII code.
 
-To compress\n
+To compress
   ./huffman -c filename
   If you compress file, the output file name add .zz at the end of the file name.
   For example, if you compress 'Hamlet.txt', the output file name is 'Hamlet.txt.zz'
